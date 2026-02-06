@@ -1,0 +1,106 @@
+This dataset intentionally includes:
+
+Multiple data types (numerical, categorical, datetime)
+
+Missing values
+
+Outliers
+
+Noisy data
+
+Correlated variables
+
+Target variables (for regression & classification)
+
+Time-series structure
+
+User-level grouping
+
+You can do:
+
+Data cleaning
+
+EDA
+
+Feature engineering
+
+Statistical analysis
+
+Visualization
+
+Hypothesis testing
+
+Regression
+
+Classification
+
+Time-series analysis
+
+✅ What the dataset will contain
+
+Columns include:
+
+User demographics
+
+Daily activity metrics
+
+Health metrics
+
+Lifestyle factors
+
+Derived outcomes
+
+
+
+Data Understanding
+
+.info(), .describe()
+
+Data Cleaning
+
+Missing value imputation
+
+Outlier detection
+
+EDA
+
+Correlation analysis
+
+Groupby (gender, age, stress)
+
+Feature Engineering
+
+BMI
+
+Rolling averages
+
+Weekly trends
+
+Statistical Analysis
+
+Hypothesis testing
+
+ANOVA on stress vs fitness
+
+ML Tasks
+
+Regression → predict fitness_score
+
+Classification → predict goal_achieved
+
+Time Series
+
+Per-user trends
+
+Seasonality
+
+Business/Health Insights
+
+Lifestyle vs performance
+
+
+
+
+
+After this is done ml model can be build in future
+
